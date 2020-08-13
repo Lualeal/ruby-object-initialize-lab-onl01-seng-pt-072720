@@ -14,7 +14,8 @@ class Dog
     @breed
   end 
   
-  if @breed.empty?==true 
+  if @breed.empty? == true 
+    puts "Mutt"
   end 
   
 end 
