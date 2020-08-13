@@ -14,7 +14,7 @@ class Dog
     @breed
   end 
   
-  if @breed.empty
+  if @breed == none 
     return "Mutt"
   end 
   
