@@ -14,7 +14,7 @@ class Dog
     @breed
   end 
   
-  if @breed
+  if @breed.empty?==true 
   end 
   
 end 
