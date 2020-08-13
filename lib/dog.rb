@@ -14,8 +14,7 @@ class Dog
     @breed
   end 
   
-  if @breed == none 
-    return "Mutt"
+  if @breed
   end 
   
 end 
